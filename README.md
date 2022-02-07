@@ -7,6 +7,7 @@
  
 ## Repository Content
   - Two circle packing plots showing the hierarchical classification analysis results.
+      - **Scroll to see the entirety of the plots** 
     - The plots are modified to contains the following components:
       1. Neural Network lines to highlight the underlying relationships between nodes.
       2. Size of the clusters is dependent on the number of nodes assigned to them
